@@ -1,5 +1,5 @@
 import React from 'react';
-import { LineChart, BarChart, Bar, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { LineChart, BarChart, Bar, Line, XAxis, YAxis, CartesianGrid } from 'recharts';
 
 export function GraphContainer (props) {
     console.log('props', props)
